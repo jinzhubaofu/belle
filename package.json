@@ -1,0 +1,14 @@
+{
+  "name": "belle",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "autoresponsive-common": "^1.0.1",
+    "autoresponsive-react": "^1.1.8",
+    "autoresponsive-react-native": "^1.0.4",
+    "react-native": "^0.16.0"
+  }
+}
